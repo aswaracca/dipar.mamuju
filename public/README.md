@@ -1,0 +1,1 @@
+- buka file .env untuk setting database
